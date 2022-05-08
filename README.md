@@ -1,2 +1,2 @@
 # FoxWeb
-a web browser for a new web
+shitty web browser curently reads from https://mediaology.com/testing/
